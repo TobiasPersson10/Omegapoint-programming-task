@@ -1,0 +1,17 @@
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.exe
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.deps.json
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.runtimeconfig.json
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.runtimeconfig.dev.json
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.dll
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\ref\OmegaPointUppsala.dll
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\OmegaPointUppsala.pdb
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.csproj.AssemblyReference.cache
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.AssemblyInfoInputs.cache
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.AssemblyInfo.cs
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.csproj.CoreCompileInputs.cache
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.dll
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\ref\OmegaPointUppsala.dll
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.pdb
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\obj\Debug\net5.0\OmegaPointUppsala.genruntimeconfig.cache
+C:\Users\Tobias\source\repos\OmegaPointUppsala\OmegaPointUppsala\bin\Debug\net5.0\AllNumbers.txt
